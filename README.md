@@ -8,7 +8,6 @@
 <a href="mailto:tiganoviv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://wa.me/4407925203294"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://github.com/tiganoviv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://gitflic.ru/user/tiganoviv"><img src="https://img.shields.io/badge/GitFlic-8A7807?style=for-the-badge&logo=git&logoColor=white" alt="GitFlic"></a>
 
 </div>
 
